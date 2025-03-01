@@ -15,9 +15,6 @@ def character_count(text):
     return (counts)
 
 
-#def sort_on(tosort):
-  #  return tosort["num"]
-
 
 def make_list(dict):
     listofdict = [{key:value} for key, value in dict.items()]
